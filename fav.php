@@ -17,7 +17,7 @@
       <div class="socials">
         <a href="#"></a>
         <a href="#"></a>
-        <a href="#" class="last"></a>
+        <a href="#" class="late"></a>
         <a href="#" class="last"></a>
       </div>
       <div class="menu_block">

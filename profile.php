@@ -7,7 +7,7 @@
  <link rel="shortcut icon" href="images/favicon.ico" />
  <link rel="stylesheet" href="css/style.css">
  <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
- 
+
 </head>
 <body class="page1">
 
@@ -17,13 +17,13 @@
       <div class="socials">
         <a href="#"></a>
         <a href="#"></a>
-        <a href="#" class="last"></a>
+        <a href="#" class="late"></a>
         <a href="#" class="last"></a>
       </div>
       <div class="menu_block">
 
 
-       
+
         <nav id="bt-menu" class="bt-menu">
           <a href="#" class="bt-menu-trigger"><span>Menu</span></a>
           <ul>
@@ -35,7 +35,7 @@
             <li class="bt-icon"><a href="login.php">Login</a></li>
           </ul>
         </nav>
-        
+
         <div class="clear"></div>
       </div>
       <div class="clear"></div>
