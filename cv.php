@@ -2,26 +2,12 @@
 <html lang="en">
      <head>
      <title>Rizal S</title>
-     <meta charset="utf-8">
-     <link rel="icon" href="images/favicon.ico">
-     <link rel="shortcut icon" href="images/favicon.ico" />
-     <link rel="stylesheet" href="css/style.css">
-     <script src="js/jquery.js"></script>
-     <script src="js/jquery-migrate-1.1.1.js"></script>
-     <script src="js/jquery.equalheights.js"></script>
-     <script src="js/jquery.ui.totop.js"></script>
-     <script src="js/jquery.easing.1.3.js"></script>
-     <script>
-        $(document).ready(function(){
-          $( ".block1" ).mouseover(function() {
-            $(this).addClass( "blur" );
-          });
-          $( ".block1" ).mouseout(function() {
-            $(this).removeClass( "blur" );
-          });
-          $().UItoTop({ easingType: 'easeOutQuart' });
-        }) 
-     </script>    
+ <meta charset="utf-8">
+ <link rel="icon" href="images/favicon.ico">
+ <link rel="shortcut icon" href="images/favicon.ico" />
+ <link rel="stylesheet" href="css/style.css">
+ <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
+  
      </head>
      <body class="page1">
 
@@ -136,6 +122,13 @@
     </div>
   </div>
 </footer>
+
+<script src="js/jquery.js"></script>
+<script src="js/jquery-migrate-1.1.1.js"></script>
+<script src="js/jquery.equalheights.js"></script>
+<script src="js/jquery.ui.totop.js"></script>
+<script src="js/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
      <script>
       $(document).ready(function(){ 
          $(".bt-menu-trigger").toggle( 
@@ -148,5 +141,16 @@
         ); 
       }) 
     </script>
+         <script>
+        $(document).ready(function(){
+          $( ".block1" ).mouseover(function() {
+            $(this).addClass( "blur" );
+          });
+          $( ".block1" ).mouseout(function() {
+            $(this).removeClass( "blur" );
+          });
+          $().UItoTop({ easingType: 'easeOutQuart' });
+        }) 
+     </script>  
 </body>
 </html>
