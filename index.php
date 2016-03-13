@@ -114,13 +114,13 @@
 		<tbody>
 			<tr>
 				<td align="center">
-				<!-- Facebook Badge START --><a href="https://www.facebook.com/rizal.septiarakhman" title="Rizal Septiarakhman" style="font-family: &quot;lucida grande&quot;,tahoma,verdana,arial,sans-serif; font-size: 11px; font-variant: normal; font-style: normal; font-weight: normal; color: #3B5998; text-decoration: none;" target="_TOP">Rizal Septiarakhman</a><span style="font-family: &#039;lucida grande&#039;,tahoma,verdana,arial,sans-serif;font-size: 11px;line-height: 16px;font-variant: normal;font-style: normal;font-weight: normal;color: #555555;text-decoration: none;">&nbsp;|&nbsp;</span><a href="https://www.facebook.com/badges/" title="Buat lencana Anda sendiri!" style="font-family: &quot;lucida grande&quot;,tahoma,verdana,arial,sans-serif; font-size: 11px; font-variant: normal; font-style: normal; font-weight: normal; color: #3B5998; text-decoration: none;" target="_TOP">Buat Lencana Anda</a><br /><a href="https://www.facebook.com/rizal.septiarakhman" title="Rizal Septiarakhman" target="_TOP"><img class="img" src="https://badge.facebook.com/badge/100001423561742.796.1671130046.png" style="border: 0px;" alt="" /></a><!-- Facebook Badge END -->
+				<!-- Facebook Badge START --><a href="https://www.facebook.com/rizal.septiarakhman" title="Rizal Septiarakhman" style="font-family: &quot;lucida grande&quot;,tahoma,verdana,arial,sans-serif; font-size: 11px; font-variant: normal; font-style: normal; font-weight: normal; color: #3B5998; text-decoration: none;" target="_TOP">Rizal Septiarakhman</a><span style="font-family: &#039;lucida grande&#039;,tahoma,verdana,arial,sans-serif;font-size: 11px;line-height: 16px;font-variant: normal;font-style: normal;font-weight: normal;color: #555555;text-decoration: none;">&nbsp;|&nbsp;</span><a href="https://www.facebook.com/badges/" title="Buat lencana Anda sendiri!" style="font-family: &quot;lucida grande&quot;,tahoma,verdana,arial,sans-serif; font-size: 11px; font-variant: normal; font-style: normal; font-weight: normal; color: #3B5998; text-decoration: none;" target="_TOP">Buat Lencana Anda</a><br /><a href="https://www.facebook.com/rizal.septiarakhman" title="Rizal Septiarakhman" target="_TOP"><img class="img" src="https://badge.facebook.com/badge/100001423561742.796.1671130046.png" style="border: 0px;" alt="" /></a><!-- Facebook Badge END --><br>
 					<!-- Histats.com  START  (standard)-->
 <script type="text/javascript">document.write(unescape("%3Cscript src=%27http://s10.histats.com/js15.js%27 type=%27text/javascript%27%3E%3C/script%3E"));</script>
 <a href="http://www.histats.com" target="_blank" title="counter hit xanga" ><script  type="text/javascript" >
 try {Histats.start(1,3378958,4,430,112,75,"00011100");
 Histats.track_hits();} catch(err){};
-</script></a>
+</script></a><br>
 <noscript><a href="http://www.histats.com" target="_blank"><img  src="http://sstatic1.histats.com/0.gif?3378958&101" alt="counter hit xanga" border="0"></a></noscript>
 <!-- Histats.com  END  -->
 				</td>
@@ -128,9 +128,14 @@ Histats.track_hits();} catch(err){};
 		</tbody>
 	</table
 </div>
-<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script><div style="overflow:hidden;height:500px;width:600px;"><div id="gmap_canvas" style="height:500px;width:600px;"><a class="google-map-code" href="http://www.map-embed.com" id="get-map-data">map-embed.com</a><style>#gmap_canvas img{max-width:none!important;background:none!important}</style><a class="google-map-code" href="http://www.zahnarzt-rosenheim.org" id="get-map-data">zahnarzt rosenheim</a></div><script type="text/javascript"> function init_map(){var myOptions = {zoom:20,center:new google.maps.LatLng(-7.292160881990976,112.80519271412084),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById("gmap_canvas"), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(-7.292160881990976, 112.80519271412084)});infowindow = new google.maps.InfoWindow({content:"<b>Omah Kos</b><br/>Bumi Marina Emas Barat Blok B , No.8<br/> Surabaya" });google.maps.event.addListener(marker, "click", function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);</script>
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script><div style="    overflow: hidden;
+    height: 200px;
+    left: 27%;
+    width: 800px;
+    padding-bottom: 200px;
+    position: relative;"><br><div id="gmap_canvas" style="height:500px;width:600px;"><a class="google-map-code" href="http://www.map-embed.com" id="get-map-data">map-embed.com</a><style>#gmap_canvas img{max-width:none!important;background:none!important}</style><a class="google-map-code" href="http://www.zahnarzt-rosenheim.org" id="get-map-data">zahnarzt rosenheim</a></div><script type="text/javascript"> function init_map(){var myOptions = {zoom:20,center:new google.maps.LatLng(-7.292160881990976,112.80519271412084),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById("gmap_canvas"), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(-7.292160881990976, 112.80519271412084)});infowindow = new google.maps.InfoWindow({content:"<b>Omah Kos</b><br/>Bumi Marina Emas Barat Blok B , No.8<br/> Surabaya" });google.maps.event.addListener(marker, "click", function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);</script>
 
-
+<br><br>
 <script src="js/jquery.js"></script>
 <script src="js/jquery-migrate-1.1.1.js"></script>
 <script src="js/jquery.equalheights.js"></script>
