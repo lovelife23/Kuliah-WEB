@@ -61,7 +61,55 @@
 <br>
 <br>
 <br>
+<div class="textback">
+	<table align="center" width="100%">
+		<tbody>
+			<tr>
+				<td align="center" colspan="2">
+					<h1z1 style="color:black; font-family:calibri" align="center"> Video</h1z1>
+					<hr class="title">
+			</tr>
+			<tr>
+				<td align="center">	
+					<h3 style="color:black; font-family:verdana"> Makoto Shinkai Production</h3>
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td align="center">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/TjMiUIi6sp0" frameborder="0" allowfullscreen></iframe>
+				</td>
+			</tr>
+			<tr>
+				<td align="center">	
+					<br>
+					<hr class="title">
+					<h3 style="color:black; font-family:verdana"> Free to Play</h3>
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td align="center">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/R-RKqGaNq-Y" frameborder="0" allowfullscreen></iframe>
+				</td>
+			</tr>	
+			<tr>
+				<td align="center">	
+					<br>
+					<hr class="title">
+					<h3 style="color:black; font-family:verdana"> Digimon :3</h3>
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td align="center">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/7cSB1IZU_8U" frameborder="0" allowfullscreen></iframe>
+				</td>
+			</tr>			
+		</tbody>
 
+	</table>
+</div>
 
 
 <!--==============================footer=================================-->

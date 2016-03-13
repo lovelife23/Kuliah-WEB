@@ -61,8 +61,8 @@
 <br>
 <br>
 <br>
-<div align="center">
-	<img class="round-img" src="image.jpg" width="350" height="371" alt="" >
+<div align="center" >
+	<img class="bw pic" src="education.png" width="350" height="371" alt="" >
 </div>
 <br>
 <br>
@@ -71,54 +71,54 @@
 		<tbody>
 			<tr>
 				<td align="center" colspan="2">
-					<h1 style="color:black; font-family:calibri" align="center"> About ME ! </h2>
+					<h1z1 style="color:black; font-family:calibri" align="center"> Curriculum Vitae </h1z1>
 					<hr class="title">
 			<tr>
-				<td align="right">	
-					<h3 style="color:black; font-family:verdana"> Name :</h3>
+				<th align="center">	
+					<h1z2 style="color:black; font-family:verdana"> <u> Riwayat Pendidikan</u> </h1z2>
 				</td>
-				<td align="center">
-					<h3 style="color:black; font-family:verdana"> Rizal Septiarakhman </h3>
+				<th align="center">
+					<h1z2 style="color:black; font-family:verdana"> <u> Organisasi </u> </h1z2>
 				</td>
 			</tr>
 			<tr>
-				<td align="right">	
-					<h3 style="color:black; font-family:verdana"> NRP : </h3>
+				<td align="center">	
+					<h4 style="color:black; font-family:verdana"> TK Al-Irsyad Tegal </h4>
 				</td>
 				<td align="center">
-					<h3 style="color:black; font-family:verdana"> 5114100180 </h3>
+					<h4 style="color:black; font-family:verdana"> Peleton Upacara (2012-2014) </h4>
 				</td>
 			</tr>
 						<tr>
-				<td align="right">	
-					<h3 style="color:black; font-family:verdana"> D.O.B : </h3>
+				<td align="center">	
+					<h4 style="color:black; font-family:verdana"> SDN MKK 1 Tegal </h4>
 				</td>
 				<td align="center">
-					<h3 style="color:black; font-family:verdana"> Tegal, 23 September 1996 </h3>
+					<h4 style="color:black; font-family:verdana"> Taruna Nusantara Tennis Club (2012-2014) </h4>
 				</td>
 			</tr>
 						<tr>
-				<td align="right">	
-					<h3 style="color:black; font-family:verdana"> Bloodtype : </h3>
+				<td align="center">	
+					<h4 style="color:black; font-family:verdana"> SMPN 1 Slawi </h4>
 				</td>
 				<td align="center">
-					<h3 style="color:black; font-family:verdana"> A </h3>
+					<h4 style="color:black; font-family:verdana"> Tarnus Nihongo Team (2012-2014) </h4>
 				</td>
 			</tr>
 						<tr>
-				<td align="right">	
-					<h3 style="color:black; font-family:verdana"> Zodiac : </h3>
+				<td align="center">	
+					<h4 style="color:black; font-family:verdana"> SMA Taruna Nusantara </h4>
 				</td>
 				<td align="center">
-					<h3 style="color:black; font-family:verdana"> Libra </h3>
+					<h4 style="color:black; font-family:verdana"> Taruna Nusantara Robotic Club (2012-2013) </h4>
 				</td>
 			</tr>
 						<tr>
-				<td align="right">	
-					<h3 style="color:black; font-family:verdana"> Hobby : </h3>
+				<td align="center">	
+					<h4 style="color:black; font-family:verdana"> Instituk Teknologi Sepuluh Nopember </h4>
 				</td>
 				<td align="center">
-					<h3 style="color:black; font-family:verdana"> Traveling </h3>
+					<h4 style="color:black; font-family:verdana"> Staff Departemen KWU HMTC (2015-2016) </h4>
 				</td>
 			</tr>
 			</tr>

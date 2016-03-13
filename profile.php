@@ -71,7 +71,7 @@
 		<tbody>
 			<tr>
 				<td align="center" colspan="2">
-					<h1 style="color:black; font-family:calibri" align="center"> About ME ! </h2>
+					<h1z1 style="color:black; font-family:calibri" align="center"> About ME ! </h1z1>
 					<hr class="title">
 			<tr>
 				<td align="right">	
@@ -113,7 +113,7 @@
 					<h3 style="color:black; font-family:verdana"> Libra </h3>
 				</td>
 			</tr>
-						<tr>
+			<tr>
 				<td align="right">	
 					<h3 style="color:black; font-family:verdana"> Hobby : </h3>
 				</td>
@@ -121,12 +121,39 @@
 					<h3 style="color:black; font-family:verdana"> Traveling </h3>
 				</td>
 			</tr>
+			<tr>
+				<td align="right">	
+					<h3 style="color:black; font-family:verdana"> Harapan Kuliah Web : </h3>
+				</td>
+				<td align="center">
+					<h3 style="color:black; font-family:verdana"> Dapat membuat sebuah Web yang Masterpiece </h3>
+				</td>
+			</tr>
 			</tr>
 		</tbody>
 
 	</table>
 </div>
+<br>
+<br>
+<br>
+<div class="textback">
+	<table align="center" width="100%">
+		<tbody>
+			<tr>
+				<td align="center" colspan="2">
+					<h1z1 style="color:black; font-family:calibri" align="center"> My Motto</h1z1>
+					<hr class="title">
+			</tr>
+			<tr>
+				<td>
+					<img src="quotes.jpg" alt="" >
+				</td>
+			</tr>	
+		</tbody>
 
+	</table>
+</div>
 
 <!--==============================footer=================================-->
 
