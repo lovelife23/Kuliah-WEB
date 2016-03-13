@@ -1,24 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
- <title>Rizal S</title>
- <meta charset="utf-8">
- <link rel="icon" href="images/favicon.ico">
- <link rel="shortcut icon" href="images/favicon.ico" />
- <link rel="stylesheet" href="css/style.css">
- <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
+     <head>
+     <title>Rizal S</title>
+     <meta charset="utf-8">
+     <link rel="icon" href="images/favicon.ico">
+     <link rel="shortcut icon" href="images/favicon.ico" />
+     <link rel="stylesheet" href="css/style.css">
+     <script src="js/jquery.js"></script>
+     <script src="js/jquery-migrate-1.1.1.js"></script>
+     <script src="js/jquery.equalheights.js"></script>
+     <script src="js/jquery.ui.totop.js"></script>
+     <script src="js/jquery.easing.1.3.js"></script>
+     <script>
+        $(document).ready(function(){
+          $( ".block1" ).mouseover(function() {
+            $(this).addClass( "blur" );
+          });
+          $( ".block1" ).mouseout(function() {
+            $(this).removeClass( "blur" );
+          });
+          $().UItoTop({ easingType: 'easeOutQuart' });
+        }) 
+     </script>    
+     </head>
+     <body class="page1">
 
-</head>
-<body class="page1">
-
+	 <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/id_ID/sdk.js#xfbml=1&version=v2.5&appId=133896363392551";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
   <header> 
     <div class="container_12">
      <div class="grid_12"> 
       <div class="socials">
-        <a href="#"></a>
         <a href="https://www.facebook.com/rizal.septiarakhman"></a>
-        <a href="#" class="late"></a>
-        <a href="#" class="last"></a>
+        <a href="http://steamcommunity.com/id/love-life" class="late"></a>
+        <a href="http://www.kaskus.co.id/profile/aboutme/5440695" class="last"></a>
       </div>
       <div class="menu_block">
 
@@ -44,67 +65,71 @@
 <br>
 <br>
 <br>
-<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-  <!-- Indicators -->
-  <ol class="carousel-indicators">
-    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
-  </ol>
-
-
-<div class="container-fluid">
-  <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-    <!-- Indicators -->
-    <ol class="carousel-indicators">
-      <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-      <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-      <li data-target="#carousel-example-generic" data-slide-to="2"></li>
-    </ol>
-
-    <!-- Wrapper for slides -->
-    <div class="carousel-inner" role="listbox">
-      <div class="item ">
-        <img src="http://www.wallpapereast.com/static/images/3D-Wallpaper-HD-35.jpg" alt="eyes">
-        <div class="carousel-caption">
-          <h1> EYES ON YOU </h1>
-        </div>
-      </div>
-      <div class="item">
-        <img src="http://bs1.imghost.nu/images/1/97791.jpg" alt="cars">
-        <div class="carousel-caption">
-
-        </div>
-      </div>
-      <div class="item active">
-        <img src="http://www.wallpapereast.com/static/images/3d-wallpaper-hd_nB6k1Up.jpg" alt="pokeball">
-        <div class="carousel-caption">
-
-        </div>
-      </div>
-    </div>
-
-    <!-- Controls -->
-    <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
-      <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-      <span class="sr-only">Previous</span>
-    </a>
-    <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
-      <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-      <span class="sr-only">Next</span>
-    </a>
-  </div>
+<div align="center">
+	<img align="center" src="images/welcome1.png" alt="" >
+</div>
+<div id="slider-shadow">
+	<div id="slider">
+		<div id="mask">
+			<ul>
+				<li>
+					<a href="profile.php" title="View my second image link"><img src="images/tes1.jpg" /></a>
+					<span><h2>Profile</h2></span>
+				</li>
+				<li>
+					<a href="cv.php" title="View my second image link"><img src="images/cv.jpg" width="600px" height="316px" /></a>
+					<span><h2>CV</h2></span>
+				</li>
+				<li>
+					<a href="favorite.php" title="View my second image link"><img src="images/fav.jpg" /></a>
+					<span><h2>Favorite</h2></span>
+				</li>
+				<li>
+					<a href="videos.php" title="View my second image link"><img src="images/dota2.jpg" width="600px" height="316px" /></a>
+					<span><h2>Video</h2></span>
+				</li>
+			</ul>
+		</div>
+		<div id="progress">
+		</div>
+		<div id="overlay">
+		</div>
+		<div id="pause">
+		</div>
+	</div>
 </div>
 
 
 <!--==============================footer=================================-->
 
 <footer>    
+<div class="fb-share-button" data-href="http://rizals.kuliahweb.com/" data-layout="button_count"></div>
   <div class="container_12">
     <div class="grid_6 prefix_3">
     </div>
   </div>
 </footer>
+<div class="footer">
+<table align="center" width="100%">
+		<tbody>
+			<tr>
+				<td align="center">
+				<!-- Facebook Badge START --><a href="https://www.facebook.com/rizal.septiarakhman" title="Rizal Septiarakhman" style="font-family: &quot;lucida grande&quot;,tahoma,verdana,arial,sans-serif; font-size: 11px; font-variant: normal; font-style: normal; font-weight: normal; color: #3B5998; text-decoration: none;" target="_TOP">Rizal Septiarakhman</a><span style="font-family: &#039;lucida grande&#039;,tahoma,verdana,arial,sans-serif;font-size: 11px;line-height: 16px;font-variant: normal;font-style: normal;font-weight: normal;color: #555555;text-decoration: none;">&nbsp;|&nbsp;</span><a href="https://www.facebook.com/badges/" title="Buat lencana Anda sendiri!" style="font-family: &quot;lucida grande&quot;,tahoma,verdana,arial,sans-serif; font-size: 11px; font-variant: normal; font-style: normal; font-weight: normal; color: #3B5998; text-decoration: none;" target="_TOP">Buat Lencana Anda</a><br /><a href="https://www.facebook.com/rizal.septiarakhman" title="Rizal Septiarakhman" target="_TOP"><img class="img" src="https://badge.facebook.com/badge/100001423561742.796.1671130046.png" style="border: 0px;" alt="" /></a><!-- Facebook Badge END -->
+					<!-- Histats.com  START  (standard)-->
+<script type="text/javascript">document.write(unescape("%3Cscript src=%27http://s10.histats.com/js15.js%27 type=%27text/javascript%27%3E%3C/script%3E"));</script>
+<a href="http://www.histats.com" target="_blank" title="counter hit xanga" ><script  type="text/javascript" >
+try {Histats.start(1,3378958,4,430,112,75,"00011100");
+Histats.track_hits();} catch(err){};
+</script></a>
+<noscript><a href="http://www.histats.com" target="_blank"><img  src="http://sstatic1.histats.com/0.gif?3378958&101" alt="counter hit xanga" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+				</td>
+			</tr>			
+		</tbody>
+	</table
+</div>
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script><div style="overflow:hidden;height:500px;width:600px;"><div id="gmap_canvas" style="height:500px;width:600px;"><a class="google-map-code" href="http://www.map-embed.com" id="get-map-data">map-embed.com</a><style>#gmap_canvas img{max-width:none!important;background:none!important}</style><a class="google-map-code" href="http://www.zahnarzt-rosenheim.org" id="get-map-data">zahnarzt rosenheim</a></div><script type="text/javascript"> function init_map(){var myOptions = {zoom:20,center:new google.maps.LatLng(-7.292160881990976,112.80519271412084),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById("gmap_canvas"), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(-7.292160881990976, 112.80519271412084)});infowindow = new google.maps.InfoWindow({content:"<b>Omah Kos</b><br/>Bumi Marina Emas Barat Blok B , No.8<br/> Surabaya" });google.maps.event.addListener(marker, "click", function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);</script>
+
 
 <script src="js/jquery.js"></script>
 <script src="js/jquery-migrate-1.1.1.js"></script>

@@ -29,10 +29,9 @@
   <div class="container_12">
    <div class="grid_12"> 
     <div class="socials">
-      <a href="#"></a>
-      <a href="#"></a>
-      <a href="#" class="last"></a>
-      <a href="#" class="last"></a>
+        <a href="https://www.facebook.com/rizal.septiarakhman"></a>
+        <a href="http://steamcommunity.com/id/love-life" class="late"></a>
+        <a href="http://www.kaskus.co.id/profile/aboutme/5440695" class="last"></a>
     </div>
     <div class="menu_block">
 

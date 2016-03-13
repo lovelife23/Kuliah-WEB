@@ -1,24 +1,37 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
- <title>Rizal S</title>
- <meta charset="utf-8">
- <link rel="icon" href="images/favicon.ico">
- <link rel="shortcut icon" href="images/favicon.ico" />
- <link rel="stylesheet" href="css/style.css">
- <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
-
-</head>
-<body class="page1">
+     <head>
+     <title>Rizal S</title>
+     <meta charset="utf-8">
+     <link rel="icon" href="images/favicon.ico">
+     <link rel="shortcut icon" href="images/favicon.ico" />
+     <link rel="stylesheet" href="css/style.css">
+     <script src="js/jquery.js"></script>
+     <script src="js/jquery-migrate-1.1.1.js"></script>
+     <script src="js/jquery.equalheights.js"></script>
+     <script src="js/jquery.ui.totop.js"></script>
+     <script src="js/jquery.easing.1.3.js"></script>
+     <script>
+        $(document).ready(function(){
+          $( ".block1" ).mouseover(function() {
+            $(this).addClass( "blur" );
+          });
+          $( ".block1" ).mouseout(function() {
+            $(this).removeClass( "blur" );
+          });
+          $().UItoTop({ easingType: 'easeOutQuart' });
+        }) 
+     </script>    
+     </head>
+     <body class="page1">
 
   <header> 
     <div class="container_12">
      <div class="grid_12"> 
       <div class="socials">
-        <a href="#"></a>
-        <a href="#"></a>
-        <a href="#" class="late"></a>
-        <a href="#" class="last"></a>
+        <a href="https://www.facebook.com/rizal.septiarakhman"></a>
+        <a href="http://steamcommunity.com/id/love-life" class="late"></a>
+        <a href="http://www.kaskus.co.id/profile/aboutme/5440695" class="last"></a>
       </div>
       <div class="menu_block">
 
@@ -46,7 +59,91 @@
 <br>
 <br>
 <br>
+<div class="textback">
+	<table align="center" width="100%">
+		<tbody>
+			<tr>
+				<td align="center" colspan="2">
+					<h1z1 style="color:black; font-family:calibri" align="center"> Favorite</h1z1>
+					<hr class="title">
+			</tr>
+		</tbody>
+	</table>
+	<table align="center" width="100%">
+		<tbody>
+			<tr>
+				<td colspan="2" align="center">	
+					<h3 style="color:black; font-family:verdana"> Games</h3>
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td align="center">
+				<a href="http://blog.dota2.com/">
+					<img src="images/dota2.gif" onmouseover="this.src='images/dota22.jpg'" onmouseout="this.src='images/dota2.gif'" height="300" width="400" alt="">
+				</a>
+				</td>
+				<td align="center">
+				<a href="http://www.kingdomhearts.com/">
+					<img src="images/kingdomheart.gif" onmouseover="this.src='images/Kingdom.png'" onmouseout="this.src='images/kingdomheart.gif'" height="300" width="400" alt="">
+				</a>
+				</td>
+			<tr>
+				<td colspan="3"> <br> <hr class="title"> </td>
+			</tr>
+			</tr>			
+		</tbody>
 
+	</table>
+	<table align="center" width="100%">
+		<tbody>
+			<tr>
+				<td colspan="2" align="center">	
+					<h3 style="color:black; font-family:verdana"> Movies</h3>
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td align="center">
+				<a href="http://www.nowyouseeme.movie/">
+					<img src="images/nowyou.gif" onmouseover="this.src='images/nowyou.jpg'" onmouseout="this.src='images/nowyou.gif'" height="300" width="400" alt="">
+				</a>
+				</td>
+				<td align="center">
+				<a href="http://marvel.com/movies/movie/219/captain_america_civil_war">
+					<img src="images/civilwar.gif" onmouseover="this.src='images/civilwar.png'" onmouseout="this.src='images/civilwar.gif'" height="300" width="400" alt="">
+				</a>
+				</td>
+			<tr>
+				<td colspan="3"> <br> <hr class="title"> </td>
+			</tr>
+			</tr>			
+		</tbody>
+
+	</table>
+	<table align="center" width="100%">
+		<tbody>
+			<tr>
+				<td colspan="3" align="center">	
+					<h3 style="color:black; font-family:verdana"> Website</h3>
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td align="center">
+					<a href="http://www.kaskus.co.id/"><img src="images/kaskus.jpg" width="100px" height="100px" /></a>
+				</td>
+				<td align="center">
+					<a href="http://malesbanget.com/"><img src="images/males-banget.png" width="100px" height="100px" /></a>
+				</td>
+				<td align="center">
+					<a href="http://9gag.com/"><img src="images/9gag.png" width="100px" height="100px" /></a>
+				</td>
+			</tr>			
+		</tbody>
+
+	</table>
+</div>
 
 
 <!--==============================footer=================================-->
