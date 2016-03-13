@@ -264,7 +264,7 @@ h1 a img {
 	display: inline-block;
 	width: 43px;
 	height: 43px;
-	  color: #d9c381;
+	  color: #aaa;
 	  font: 24px/43px FontAwesome;
 }
 
@@ -291,7 +291,7 @@ h1 a img {
 }
 
 .socials a.last {
-	background: url(../images/pint.png) center 0 no-repeat #fff;
+	background: url(../images/kaskus.png) center 0 no-repeat #fff;
 }
 
 .socials a:hover {
