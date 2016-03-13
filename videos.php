@@ -46,7 +46,6 @@
          <li class="bt-icon"><a href="cv.php">CV</a></li>
          <li class="bt-icon"><a href="fav.php">Favorite</a></li>
          <li class="current bt-icon"><a href="videos.php">Video</a></li>
-         <li class="bt-icon"><a href="login.php">Login</a></li>
         </ul>
       </nav>
     

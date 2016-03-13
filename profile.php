@@ -32,7 +32,6 @@
             <li class="bt-icon"><a href="cv.php">CV</a></li>
             <li class="bt-icon"><a href="fav.php">Favorite</a></li>
             <li class="bt-icon"><a href="videos.php">Video</a></li>
-            <li class="bt-icon"><a href="login.php">Login</a></li>
           </ul>
         </nav>
 
@@ -57,7 +56,6 @@
 		<tbody>
 			<tr>
 				<td align="center" colspan="2">
-<<<<<<< HEAD
 					<h1z1 style="color:black; font-family:calibri" align="center"> About ME ! </h1z1>
 					<hr class="title">
 			<tr>
@@ -118,61 +116,6 @@
 			</tr>
 			</tr>
 		</tbody>
-=======
-					<h1 style="color:black; font-family:calibri" align="center"> About ME ! </h2>
-           <hr class="title">
-           <tr>
-            <td align="right">	
-             <h3 style="color:black; font-family:verdana"> Name :</h3>
-           </td>
-           <td align="center">
-             <h3 style="color:black; font-family:verdana"> Rizal Septiarakhman </h3>
-           </td>
-         </tr>
-         <tr>
-          <td align="right">	
-           <h3 style="color:black; font-family:verdana"> NRP : </h3>
-         </td>
-         <td align="center">
-           <h3 style="color:black; font-family:verdana"> 5114100180 </h3>
-         </td>
-       </tr>
-       <tr>
-        <td align="right">	
-         <h3 style="color:black; font-family:verdana"> D.O.B : </h3>
-       </td>
-       <td align="center">
-         <h3 style="color:black; font-family:verdana"> Tegal, 23 September 1996 </h3>
-       </td>
-     </tr>
-     <tr>
-      <td align="right">	
-       <h3 style="color:black; font-family:verdana"> Bloodtype : </h3>
-     </td>
-     <td align="center">
-       <h3 style="color:black; font-family:verdana"> A </h3>
-     </td>
-   </tr>
-   <tr>
-    <td align="right">	
-     <h3 style="color:black; font-family:verdana"> Zodiac : </h3>
-   </td>
-   <td align="center">
-     <h3 style="color:black; font-family:verdana"> Libra </h3>
-   </td>
- </tr>
- <tr>
-  <td align="right">	
-   <h3 style="color:black; font-family:verdana"> Hobby : </h3>
- </td>
- <td align="center">
-   <h3 style="color:black; font-family:verdana"> Traveling </h3>
- </td>
-</tr>
-</tr>
-</tbody>
->>>>>>> 7754b5053da79f9ad5c1a8b9bc159829bee14ebb
-
 </table>
 </div>
 <br>

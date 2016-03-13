@@ -7,7 +7,7 @@
  <link rel="shortcut icon" href="images/favicon.ico" />
  <link rel="stylesheet" href="css/style.css">
  <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
- 
+
 </head>
 <body class="page1">
 
@@ -23,7 +23,7 @@
       <div class="menu_block">
 
 
-       
+
         <nav id="bt-menu" class="bt-menu">
           <a href="#" class="bt-menu-trigger"><span>Menu</span></a>
           <ul>
@@ -32,10 +32,9 @@
             <li class="bt-icon"><a href="cv.php">CV</a></li>
             <li class="current bt-icon"><a href="fav.php">Favorite</a></li>
             <li class="bt-icon"><a href="videos.php">Video</a></li>
-            <li class="bt-icon"><a href="login.php">Login</a></li>
           </ul>
         </nav>
-        
+
         <div class="clear"></div>
       </div>
       <div class="clear"></div>
